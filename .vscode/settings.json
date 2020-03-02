@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/a91d6ce2-76ad-438d-90c7-cc62fd297386/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/HackerNewsFrontEnd",
+    "appService.deploySubpath": ""
+}
